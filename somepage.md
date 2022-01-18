@@ -1,6 +1,6 @@
 layout: page
 title: "Some Page"
-permalink: //
+permalink: /page/
 
 This is a random page, seeking to understand how the page would be created.
 
